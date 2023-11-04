@@ -1,0 +1,3 @@
+/Game/*
+!/Game/.ipynb_checkpoints
+!/Game/gameController.ipynb
