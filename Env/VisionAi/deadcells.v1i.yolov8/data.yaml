@@ -1,0 +1,6 @@
+train: C:/Users/rayan/OneDrive/Bureau/HackProject/CellsAI/Env/VisionAi/deadcells.v1i.yolov8/train/images
+val: C:/Users/rayan/OneDrive/Bureau/HackProject/CellsAI/Env/VisionAi/deadcells.v1i.yolov8//valid/images
+test: C:/Users/rayan/OneDrive/Bureau/HackProject/CellsAI/Env/VisionAi/deadcells.v1i.yolov8//test/images
+
+nc: 6
+names: ['agents', 'door_nextLevel', 'enemy_archer', 'enemy_green_puncher', 'enemy_purple_big', 'enemy_purple_shield']
