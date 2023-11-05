@@ -1,5 +1,5 @@
 from game_states import GameState
-from ..Game import gameController
+from gController import *
 
 #Observer class
 
@@ -16,8 +16,8 @@ class Action:
 
     #Explore map depending on the terrain 
     def explore(self): 
-        gameController.goRight()
-        gameController.climb()
+        gController.goRight()
+        gController.climb()
         return gameController.roll()
     #Attack and kill enemy 
     def attack(self): 
