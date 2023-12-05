@@ -1,3 +1,6 @@
 /Game/*
 !/Game/.ipynb_checkpoints
 !/Game/gameController.ipynb
+/Env/*
+!/Env/.ipynb_checkpoints
+!/Env/VisionAi

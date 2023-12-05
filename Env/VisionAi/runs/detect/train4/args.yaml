@@ -1,8 +1,8 @@
 task: detect
 mode: train
 model: yolov8m.pt
-data: deadcells.v1i.yolov8/data.yaml
-epochs: 20
+data: deadcells.v3i.yolov8/data.yaml
+epochs: 100
 patience: 50
 batch: 16
 imgsz: 640
