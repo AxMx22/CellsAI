@@ -1,0 +1,1 @@
+['agents', 'enemy_archer', 'enemy_purple_shield', 'enemy_archer', 'enemy_green_puncher', 'wood_floor', 'wood_floor']
